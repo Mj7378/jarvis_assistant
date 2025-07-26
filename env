@@ -1,0 +1,15 @@
+# LiveKit config
+LIVEKIT_API_KEY=APIrvyTN6Pp9Z2D
+LIVEKIT_API_SECRET=3qkbyMOWEe4cs2jtbolx8AHcEXosFHzR0BHbwM1Uhrd
+LIVEKIT_URL=wss://jarvis-rwka516y.livekit.cloud
+
+# Google Gemini API key
+GOOGLE_API_KEY=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
+
+#googlesearch API key &  search ID
+GOOGLE_SEARCH_API_KEY=AIzaSyBjvNPSSFJTjzkf6t0-iSJccRqWqBAVBlA
+SEARCH_ENGINE_ID=
+
+#whether API Key
+OPENWEATHER_API_KEY=
+
